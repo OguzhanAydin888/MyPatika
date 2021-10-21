@@ -1,0 +1,2 @@
+# MyPatika
+Patika ödev/proje
